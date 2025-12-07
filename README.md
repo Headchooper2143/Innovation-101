@@ -7,8 +7,8 @@ Thank you for visiting my page to review my passions.
 In this README file, the command exections are posted for each project in order. 
 
 Stress_Graphing Project :
->> Stress_graphing
-Enter a model type: 1 for Maxwell, 2 for Voigt, or 3 for standard: 1
+#>> Stress_graphing
+#Enter a model type: 1 for Maxwell, 2 for Voigt, or 3 for standard: 1
 Enter a model type: 1 for Maxwell, 2 for Voigt, or 3 for standard: 1
 Enter initial stress: 233.23243
 Enter stiffness: .3434
