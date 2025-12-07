@@ -1,6 +1,6 @@
 # Innovation-101: Intro and Command Executions.
 
-Below is the project file, new projects will be added amoung additional completion.
+Below is the project file, new projects will be added among additional completion.
 
 Thank you for visiting my page to review my passions.
 
